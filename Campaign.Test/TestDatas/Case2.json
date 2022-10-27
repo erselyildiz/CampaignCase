@@ -1,0 +1,32 @@
+{
+  "basketItemRequests": [
+    {
+      "productCode": "APP-1313XR",
+      "productGroups": [
+        "apple-discount",
+        "apple-campaign",
+        "november-dicount-dates"
+      ],
+      "brand": "Apple",
+      "productName": "Apple Iphone 13 Pro Xr",
+      "categoryId": 6579314,
+      "categoryName": "Cep-telefonu",
+      "price": 29999.99,
+      "quantity": 1
+    },
+    {
+      "productCode": "SAM-6479WE",
+      "productGroups": [
+        "samsung-discount",
+        "samsung-campaign",
+        "november-dicount-dates"
+      ],
+      "brand": "Samsung",
+      "productName": "Samsung S22",
+      "categoryId": 6579314,
+      "categoryName": "Cep-telefonu",
+      "price": 19999.99,
+      "quantity": 1
+    }
+  ]
+}

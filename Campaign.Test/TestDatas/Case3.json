@@ -1,0 +1,42 @@
+{
+  "basketItemRequests": [
+    {
+      "productCode": "KM-8763KU",
+      "productGroups": [
+        "kedimamasi-sepette-50-tl-indirim",
+        "november-dicount-dates"
+      ],
+      "brand": "KM",
+      "productName": "KM 300 gr",
+      "categoryId": 6547821,
+      "categoryName": "Kedi-Mamasi",
+      "price": 196,
+      "quantity": 1
+    },
+    {
+      "productCode": "KM-9632PP",
+      "productGroups": [
+        "kedimamasi-sepette-50-tl-indirim",
+        "november-dicount-dates"
+      ],
+      "brand": "KM",
+      "productName": "KM 750 gr",
+      "categoryId": 6547821,
+      "categoryName": "Kedi-Mamasi",
+      "price": 675,
+      "quantity": 1
+    },
+    {
+      "productCode": "KM-8657OL",
+      "productGroups": [
+        "november-dicount-dates"
+      ],
+      "brand": "KM",
+      "productName": "KM 100 gr",
+      "categoryId": 6547821,
+      "categoryName": "Kedi-Mamasi",
+      "price": 99,
+      "quantity": 1
+    }
+  ]
+}

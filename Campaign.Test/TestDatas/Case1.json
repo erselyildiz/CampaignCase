@@ -1,0 +1,45 @@
+{
+  "basketItemRequests": [
+    {
+      "productCode": "EVD-9586VR",
+      "productGroups": [
+        "ev-dekorasyon-discount",
+        "ev-dekorasyon-campaign",
+        "november-dicount-dates"
+      ],
+      "brand": "Taç",
+      "productName": "Taç perde",
+      "categoryId": 596478,
+      "categoryName": "Ev-dekorasyon",
+      "price": 199.99,
+      "quantity": 1
+    },
+    {
+      "productCode": "EVD-2147GH",
+      "productGroups": [
+        "ev-dekorasyon-discount",
+        "ev-dekorasyon-campaign",
+        "november-dicount-dates"
+      ],
+      "brand": "Linens",
+      "productName": "Linens nevresim",
+      "categoryId": 596478,
+      "categoryName": "Ev-dekorasyon",
+      "price": 299.99,
+      "quantity": 1
+    },
+    {
+      "productCode": "APC-4762GF",
+      "productGroups": [
+        "mouse-discount-group",
+        "november-dicount-dates"
+      ],
+      "brand": "Logitech",
+      "productName": "Logitech mouse",
+      "categoryId": 323652,
+      "categoryName": "Environment Units",
+      "price": 51.99,
+      "quantity": 1
+    }
+  ]
+}

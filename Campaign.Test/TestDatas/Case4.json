@@ -1,0 +1,44 @@
+{
+  "basketItemRequests": [
+    {
+      "productCode": "SPI-985769",
+      "productGroups": [
+        "spiegen-discount",
+        "spiegen-campaign",
+        "november-dicount-dates"
+      ],
+      "brand": "Spiegen",
+      "productName": "Spiegen Kılıf",
+      "categoryId": 5471285,
+      "categoryName": "Cep-telefonu-aksesuarı",
+      "price": 1700,
+      "quantity": 1
+    },
+    {
+      "productCode": "SAM-9658QW",
+      "productGroups": [
+        "samsung-discount",
+        "november-dicount-dates"
+      ],
+      "brand": "Samsung",
+      "productName": "Samsung TWS Kulaklık",
+      "categoryId": 8574364,
+      "categoryName": "Samsung-kulaklik",
+      "price": 60,
+      "quantity": 1
+    },
+    {
+      "productCode": "SAM-7745IK",
+      "productGroups": [
+        "samsung-discount",
+        "november-dicount-dates"
+      ],
+      "brand": "Samsung",
+      "productName": "Samsung Headphones",
+      "categoryId": 8574364,
+      "categoryName": "Samsung-kulaklik",
+      "price": 100,
+      "quantity": 1
+    }
+  ]
+}
